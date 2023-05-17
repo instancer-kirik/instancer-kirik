@@ -1,9 +1,10 @@
 - 👋 Hi, I’m @instancer-kirik
 - 👀 I’m interested in adventures and side quests
-- 🌱 I’m currently learning kotlin
-- 💞️ I’m working on Data Branch, an android app. kinda like a pip boy thing. LOTS of features planned. socials, creating and displaying navigatable 3d skills graph and some other stuff.
-- NOTICE HOW MY CONTRIBUTIONS ARE V. LOW. I have other account linked on Android Studio bc I set it up that way and forgot
+- 🌱 I’m currently learning kotlin, jsx, ue5, etc
+- 💞️ I have a lot of projects and no money, help and/or show interest on what you'd like me to complete
 - 📫 How to reach me instance.select@gmail.com
+- $Instancer
+- https://www.patreon.com/instance_select
 
 <!---
 instancer-kirik/instancer-kirik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
