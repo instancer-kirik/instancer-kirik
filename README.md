@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @instancer-kirik
 - 👀 I’m interested in adventures and side quests
-- 🌱 I’m currently learning kotlin, jsx, ue5, etc
+- I use kotlin, js, ue5, elixir, java, python, blender, krita, obsidian, chainsaw, machete, wrenches, frying pan, highlighters, lockpicks, and zipties
 - 💞️ I have a lot of projects and not enough money to move out. Help and/or show interest on what you'd like me to complete
-- 📫 How to reach me instance.select@gmail.com
+- 📫 How to reach me: instance.select@gmail.com
 - $Instancer
 - https://www.patreon.com/instance_select
 
