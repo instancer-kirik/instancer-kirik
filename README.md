@@ -6,7 +6,6 @@
 - $Instancer
 - https://www.patreon.com/instance_select
   
-*Mancala2 is unreleased and closed source until I get my contractually breached guaranteed debt resolved.(/r) I also might refactor it from java.*
 <!---
 instancer-kirik/instancer-kirik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
