@@ -1,7 +1,7 @@
 - 👋 Hi, I’m instancer-kirik
 - 👀 I’m interested in adventures and side quests and making free software and 3d and VR and tools and features and websites and games and possibly costly gear and stuff
-- 🖐 I use(kotlin, t/js, ue5, elixir, java, python, blender, krita, obsidian, chainsaw, machete, wrenches, highlighters, lockpicks, and zipties)
-- 💞️ I have a lot of projects and not enough money to move out. Help and/or show interest on what you'd like me to complete. Also I might become a mariner soon, but I want a ship of my own with cool tools and space. I may just crew for a time on some cargo ship.
+- 🖐 I use(zig, E, C, D, t/js, ue5, elixir, python, kotlin, java, blender, krita, obsidian, hammer, machete, wrenches, highlighters, lockpicks, and zipties)
+- 💞️ buy my laptop for Phi Million
 - 📫 How to reach me: kirik@instance.select
 - $Instancer
 - https://www.patreon.com/instance_select
