@@ -1,4 +1,4 @@
-- 👋 Hi, I’m instancer-kirik
+- 👋 Sponsor my hunter exam March 29th 2025?
 - 👀 I’m interested in adventures and side quests and making free software and 3d and VR and tools and features and websites and games and possibly costly gear and stuff
 - 🖐 I use(zig, E, C, D, t/js, ue5, elixir, python, kotlin, java, blender, krita, obsidian, hammer, machete, wrenches, highlighters, lockpicks, and zipties)
 - 💞️ buy my laptop for Phi Million
